@@ -25,7 +25,7 @@ Ou aperte Cmd+Option+C (no Mac) ou Ctrl+Shift+C (no Windows e Linux);
 
 </aside>
 
-# Guia de Console
+## Guia de Console
 
 Web developers often log messages to the Console to make sure that their JavaScript is working as expected. To log a message, you insert an expression like `console.log('Hello, Console!')` into your JavaScript. When the browser executes your JavaScript and sees an expression like that, it knows that it's supposed to log the message to the Console. For example, suppose that you're in the process of writing the HTML and JavaScript for a page:
 
